@@ -3,7 +3,14 @@
  *  Title: Monitorización humedad, temperatura y sensación térmica, online y por pantalla oled.
  *  Título: Placa de control para puerta de garaje.
  *  Creación 24/07/2016   Revisado:    Autor: AntonioBG        Location: Seville - Spain
- *  Material: Placa WeMos D1 R2 mini, FA 5V smartphone, Pantalla OLED 64X48 IIC I2C, shield DHT11
+ *  Material empleado: - Placa WeMos D1 R2 mini
+ *                     - FA 5V smartphone
+ *                     - Pantalla OLED 64X48 IIC I2C
+ *                     - Shield DHT11
+ *  Parts list: - Device WeMos D1 R2 mini
+ *              - Mobile charger for power
+ *              - OLED screen 64X48 IIC I2C
+ *              - Shield DHT11
  *  Ver 1.2:  - Se ha implementado la pantalla oled
  *            - 
  *  Objetivo: - Monitorizar online la humedad, temperatura y sensación térmica vía wifi cada 5 segundos, el dispositivo 
